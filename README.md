@@ -1,0 +1,6 @@
+# nk-math-portfolio
+This repository contains selected exercises/problems from my independent study in mathematics.
+Contents include:
+- Measure and Probability problems
+- Real analysis problems
+- Numbers and Sets problems
